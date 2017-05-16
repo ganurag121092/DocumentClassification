@@ -1,5 +1,6 @@
 # DocumentClassification
 Machine Learning Project for Document Classification
+-------------------------------------------------------
 
 Our project uses a publicly available DataSet containing various number of documents along with the names of the Conferences in which these documents were presented.
 
